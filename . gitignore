@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite3
+
+# AI Vector Database
+chroma_db/
+
+# Node Modules
+node_modules/
+
+# Build Files
+dist/
+build/
+
+# IDE Files
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
